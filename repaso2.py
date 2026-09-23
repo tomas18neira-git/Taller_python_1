@@ -18,7 +18,6 @@ cantidad de tiquetes
 segun la cantidad de tiquetes pedir los nombres de los pasajeros.
 calcular total a pagar 
 mostrar destino, los nombres de los pasajeros, total a pagar.
-
 """
 # Ciclo Infinito
 
